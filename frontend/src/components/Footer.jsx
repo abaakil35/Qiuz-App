@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center justify-between space-y-4 sm:flex-row sm:space-y-0">
           <div className="text-center sm:text-left">
-            <h3 className="text-lg font-semibold text-indigo-600">QuizMaster</h3>
+            <h3 className="text-lg font-semibold text-indigo-600">QuizApp</h3>
             <p className="mt-1 text-sm text-gray-500">
               Empowering knowledge through interactive learning
             </p>

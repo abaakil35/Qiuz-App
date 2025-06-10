@@ -1,7 +1,7 @@
 {
-    "name": "quizmaster-frontend",
-    "version": "1.0.0",
-    "description": "Frontend for QuizMaster application",
+    "name": "quizapp-frontend",
+    "version": "0.0.0",
+    "description": "Frontend for QuizApp application",
     "type": "module",
     "scripts": {
         "dev": "vite",

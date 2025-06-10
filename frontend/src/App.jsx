@@ -41,7 +41,7 @@ function App() {
             <Route
               path="/history"
               element={
-                <PrivateRoute>
+                <PrivateRoute adminOnly>
                   <QuizHistory />
                 </PrivateRoute>
               }
