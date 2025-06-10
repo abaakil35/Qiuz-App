@@ -1,4 +1,4 @@
-# QuizMaster - Full-Stack Quiz Application
+# QuizApp - Full-Stack Quiz Application
 
 A full-stack web application that allows admins to create and manage quiz questions, and users to take quizzes and view their scores.
 
